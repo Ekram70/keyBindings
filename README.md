@@ -16,6 +16,12 @@
 - `f12` = jump directly to the css file or open it in a new editor
 - `alt+f12` = load the css file inline and make quick edits right there
 - `ctrl+hover` = show the definition in a hover over the symbol
+- `ctrl+'` = toggle quotes "", '', ``
+- `ctrl+shift+a` = better align
+- `shift+cmd+alt+k` = swap brackets
+- `shift+cmd+alt+i` = remove brackets
+- `shift+cmd+alt+h` = select brackets content
+- `shift+cmd+alt+0` = select quotes content
 
 ### Default keybinding
 
